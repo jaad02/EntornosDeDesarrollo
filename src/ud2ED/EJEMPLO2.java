@@ -12,6 +12,7 @@ public class EJEMPLO2 {
 		System.out.println("Valor de 'sum': " + sum);
 		}
 		System.out.println("La suma de los números del 1 al " + n + " es: " + sum);
+		system.out.println("hola")
 	
 	
 	}
